@@ -1,35 +1,25 @@
 ---
 name: Innovation Challenge Submission
 about: Submissions for the Minima Innovation Challenge
-title: MINIDAPP NAME - TEAM NAME
+title: StampD - The StampDappers (formally Stampapp - Node Irection Home)
 labels: ''
 assignees: ''
 
 ---
 
-**Before you start, please update the issue title:**
-
-Example: *Minima DEX - The A Team*
-
-
 ## :pencil2: Project & Team Details
 
-1. MiniDapp/Project Name [required, as used in your Google Form]: *Provide the name of your MiniDapp/Project*
+1. StampD (formally 'Stampapp')
 
-2. MiniDapp/Project Description [optional, if changed from your application in Google Form]: *Please provide a brief description of your MiniDapp/Project*
+2. Building the engine for the circular economy
 
-3. Team Name [optional, if changed from your application in Google Form]: *Provide your team name*
-
-4. Team Members [optional, if changed from your application in Google Form]: *Please list names of all team members*
+3. The StampDappers
 
 ## :one: Phase 1 Submission 
 
-For Phase 1, please upload the following 
-(paste the link to where you uploaded e.g. other cloud provider or GitHub (if more than 100MB) or Attach files by dragging & dropping, selecting or pasting them)
+4. Video Pitch: https://www.dropbox.com/s/mdmmufsa40acpad/StampD_Minima_Pitch.mp4?dl=0
 
-5. A whitepaper or a pitch video with a description of the idea you have that includes: your idea, how it meets the criteria to be considered for the competition, the benefits it will bring to people and how the unique features of the Minima network can make a real difference/give an advantage to your solution.
-
-6. Upload Presentation: *Upload any relevant presentations/slide decks you have created*
+5. Pitch Deck: https://github.com/minima-global/innovation-challenge/files/9270946/Stampd_phase1_pitch_deck.pdf
 
 ## :two: Phase 2 Submission 
 
@@ -42,12 +32,13 @@ For Phase 2, please update your submission, providing the following:
 9. Upload Demo: *Upload any demonstration videos you have created (optional)*
 
 ##  :round_pushpin: Other Comments
-*Optional - add any other comments regarding your submission*
+The video came out longer than expected, apologies. We have several other excellent ideas that are eminently doable. May need some coding support for POC. Thanks for your time. 
 
 ## :heavy_check_mark: Checklist
 
 **Before you post the issue**:
-- [ ] Make sure you have entered using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdW-r1iTN2JUxaLhKZxLj4FgRnIF6yZWAXB30hj4c-vwaNuPw/viewform)
-- [ ] You have followed the issue title format
-- [ ] You have provided all the information correctly and uploaded all required material for the Phase you are submitting for
-- [ ] You have read and agree with the terms in the [Code Of Conduct]()
+- [x] Make sure you have entered using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdW-r1iTN2JUxaLhKZxLj4FgRnIF6yZWAXB30hj4c-vwaNuPw/viewform)
+- [x] You have followed the issue title format
+- [x] You have provided all the information correctly and uploaded all required material for the Phase you are submitting for
+- [x] You have read and agree with the terms in the [Code Of Conduct]()
+
